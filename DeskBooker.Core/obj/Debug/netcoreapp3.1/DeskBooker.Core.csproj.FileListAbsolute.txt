@@ -1,0 +1,9 @@
+C:\Users\40116716\source\repos\DeskBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.AssemblyInfoInputs.cache
+C:\Users\40116716\source\repos\DeskBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.AssemblyInfo.cs
+C:\Users\40116716\source\repos\DeskBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.csproj.CoreCompileInputs.cache
+C:\Users\40116716\source\repos\DeskBooker\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.deps.json
+C:\Users\40116716\source\repos\DeskBooker\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.dll
+C:\Users\40116716\source\repos\DeskBooker\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.pdb
+C:\Users\40116716\source\repos\DeskBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.csprojAssemblyReference.cache
+C:\Users\40116716\source\repos\DeskBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.dll
+C:\Users\40116716\source\repos\DeskBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.pdb
